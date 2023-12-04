@@ -1,0 +1,39 @@
+Terms of Service for Automated-Bots
+
+Last Updated: 2024
+
+Welcome to Automated-Bots! By using our software bot and related services, you agree to comply with and be bound by the following terms and conditions. Please read these Terms of Service carefully before using Automated-Bots.
+
+1. Acceptance of Terms:
+By using Automated-Bots, you agree to these Terms of Service and any future amendments or additions.
+
+2. Use of Automated-Bots:
+You agree to use Automated-Bots for lawful and legitimate purposes only. You will not engage in any activity that may compromise the security or functionality of the service.
+
+3. User Accounts:
+To access certain features of Automated-Bots, you may be required to create an account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+4. User Conduct:
+You agree not to engage in any conduct that is harmful, offensive, or violates any applicable laws or regulations while using Automated-Bots. This includes, but is not limited to, the transmission of harmful code, harassment, or unauthorized access.
+
+5. Intellectual Property:
+Automated-Bots and its original content, features, and functionality are owned by [Your Company] and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+
+6. Privacy:
+Your use of Automated-Bots is also governed by our Privacy Policy, which can be found at [Link to Privacy Policy]. By using Automated-Bots, you consent to the terms of the Privacy Policy.
+
+7. Termination:
+We reserve the right to terminate or suspend your access to Automated-Bots at our discretion, without notice, for any conduct that we believe violates these Terms of Service or is harmful to other users of the service.
+
+8. Changes to Terms:
+We may modify or revise these Terms of Service at any time. You are responsible for regularly reviewing the terms. Your continued use of Automated-Bots after such modifications signifies your acceptance of the updated terms.
+
+9. Limitation of Liability:
+[Your Company] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (a) your use or inability to use Automated-Bots; (b) any unauthorized access to or use of our servers and/or any personal information stored therein; (c) any interruption or cessation of transmission to or from Automated-Bots; (d) any bugs, viruses, trojan horses, or the like that may be transmitted to or through Automated-Bots by any third party.
+
+10. Governing Law:
+These Terms of Service are governed by and construed in accordance with the laws of [Your Country], without regard to its conflict of law principles.
+
+If you have any questions or concerns about these Terms of Service, please contact us at [Contact Email Address].
+
+Thank you for choosing Automated-Bots!
